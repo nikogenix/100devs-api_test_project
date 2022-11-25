@@ -1,6 +1,6 @@
 # API Test Project
 
-Just a test project made to practice making APIs using Node.js and Express
+Just a test project to practice making APIs using Node.js and Express
 
 ## How To Use
 
